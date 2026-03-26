@@ -43,5 +43,3 @@ def generate():
         "order_id": order_id
     })
 
-
-app.run()
